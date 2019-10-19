@@ -1,6 +1,5 @@
-# Project Title
 
-Mageto 2 development project
+# Mageto 2 development project
 
 ## Getting Started
 
