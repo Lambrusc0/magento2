@@ -1,6 +1,6 @@
 # Project Title
 
-One Paragraph of project description goes here
+Mageto 2 development project
 
 ## Getting Started
 
